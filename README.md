@@ -7,6 +7,8 @@
 
 - ⚡ Love talking about **soccer, videogames, the global economy, financial markets**
 
+- :computer:  Check out my Tableau projects at https://public.tableau.com/app/profile/osama.bilgrami
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-bilgrami-9a71b220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-bilgrami-9a71b220a/" height="30" width="40" /></a>
