@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **osama.bilgrami1999@gmail.com**
 
-- ⚡ Love talking about **soccer, economics, financial markets**
+- ⚡ Love talking about **Soccer, AI, ML, FinTech, Financial Markets**
 
 - :computer:  Check out my Tableau projects at https://public.tableau.com/app/profile/osama.bilgrami
 
